@@ -1,0 +1,13 @@
+## Conhecimentos adquiridos:
+  - Ambiente de desenvolvimento Java.
+  - Sintaxe básica Java.
+  - Estruturas condicionais.
+  - Estruturas de repetição.
+  - Versionamento de código com Git e GitHub.
+  - Tratamento de exceções.
+  - Debugging Java.
+  - Fundamentos e pilares da POO com Java.
+  - UML
+
+## Tecnologias utilizadas:
+   - Java (LTS 21)
