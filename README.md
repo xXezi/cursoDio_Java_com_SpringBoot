@@ -1,4 +1,4 @@
-## Conhecimentos adquiridos:
+### Conhecimentos adquiridos:
   - Ambiente de desenvolvimento Java.
   - Sintaxe básica Java.
   - Estruturas condicionais.
@@ -9,5 +9,5 @@
   - Fundamentos e pilares da POO com Java.
   - UML
 
-## Tecnologias utilizadas:
-   - Java (LTS 21)
+### Tecnologias utilizadas:
+   - Java - LTS 21
