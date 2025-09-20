@@ -8,6 +8,7 @@
   - Debugging Java.
   - Fundamentos e pilares da POO com Java.
   - UML
+  - List e ArrayList.
 
 ### Tecnologias utilizadas:
    - Java - LTS 21
