@@ -9,6 +9,7 @@
   - Fundamentos e pilares da POO com Java.
   - UML
   - List e ArrayList.
+  - Set, HashSet, hashCode and equals.
 
 ### Tecnologias utilizadas:
    - Java - LTS 21
