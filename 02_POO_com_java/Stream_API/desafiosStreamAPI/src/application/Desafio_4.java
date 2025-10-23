@@ -16,7 +16,7 @@ public class Desafio_4 {
 		
 		numeros.stream()
 				.distinct()
-				.filter(n -> n % 2 != 0)
+				.filter(n -> n % 2 == 0)
 				.toList()
 				.forEach(n -> System.out.println(n));
 	}
