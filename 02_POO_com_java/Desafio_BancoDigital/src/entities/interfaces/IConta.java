@@ -1,8 +1,11 @@
 package entities.interfaces;
 
+import entities.Conta;
+
 public interface IConta {
 	
-	public void sacar();
-	public void depositar();	
-	public void transferir();
+	void sacar(double valor);
+	void depositar(double valor);
+	void transferir(double valor, Conta contaDestino);
+	void extratoConta();
 }
