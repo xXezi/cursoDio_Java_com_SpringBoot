@@ -19,7 +19,7 @@ CRUD de uma API Rest de clientes com endereço usando o Spring Boot 3 e API ViaC
 
 ## Docs Swagger
 
-![](https://github.com/xXezi/cursoDio_Java_com_SpringBoot/tree/main/05_java_com_spring_framework/design-patterns-spring/src/main/resources/templates/swaggerDoc.png)
+![](https://github.com/xXezi/cursoDio_Java_com_SpringBoot/blob/main/05_java_com_spring_framework/design-patterns-spring/src/main/resources/templates/swaggerDoc.png)
 
 ---
 
